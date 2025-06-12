@@ -1,2 +1,3 @@
-s Thi sfiles contains users java,.
-Hii This file is updated
+This is java class
+I am Mahendra
+I am practiceing Java
